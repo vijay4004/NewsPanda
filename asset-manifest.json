@@ -1,0 +1,22 @@
+{
+  "files": {
+    "main.css": "/NewsPanda/static/css/main.a617e044.chunk.css",
+    "main.js": "/NewsPanda/static/js/main.b1afe599.chunk.js",
+    "main.js.map": "/NewsPanda/static/js/main.b1afe599.chunk.js.map",
+    "runtime-main.js": "/NewsPanda/static/js/runtime-main.8b8b12ae.js",
+    "runtime-main.js.map": "/NewsPanda/static/js/runtime-main.8b8b12ae.js.map",
+    "static/js/2.11004ed6.chunk.js": "/NewsPanda/static/js/2.11004ed6.chunk.js",
+    "static/js/2.11004ed6.chunk.js.map": "/NewsPanda/static/js/2.11004ed6.chunk.js.map",
+    "static/js/3.1686862b.chunk.js": "/NewsPanda/static/js/3.1686862b.chunk.js",
+    "static/js/3.1686862b.chunk.js.map": "/NewsPanda/static/js/3.1686862b.chunk.js.map",
+    "index.html": "/NewsPanda/index.html",
+    "static/css/main.a617e044.chunk.css.map": "/NewsPanda/static/css/main.a617e044.chunk.css.map",
+    "static/js/2.11004ed6.chunk.js.LICENSE.txt": "/NewsPanda/static/js/2.11004ed6.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.8b8b12ae.js",
+    "static/js/2.11004ed6.chunk.js",
+    "static/css/main.a617e044.chunk.css",
+    "static/js/main.b1afe599.chunk.js"
+  ]
+}
